@@ -1,4 +1,10 @@
 import React from "react";
 
+function ViewList(props){
+  return(
 
-module.export=viewLists;
+  );
+}
+
+
+module.export=ViewLists;
